@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SazyWeb", "SazyWeb\SazyWeb.csproj", "{A9AE9B7B-A27A-4E6B-A392-7B5F77CEDFE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9AE9B7B-A27A-4E6B-A392-7B5F77CEDFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AE9B7B-A27A-4E6B-A392-7B5F77CEDFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AE9B7B-A27A-4E6B-A392-7B5F77CEDFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AE9B7B-A27A-4E6B-A392-7B5F77CEDFE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2B5E5FA-B582-4D18-97FE-B8A2E39A37EA}
+	EndGlobalSection
+EndGlobal

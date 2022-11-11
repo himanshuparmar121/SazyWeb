@@ -13,4 +13,46 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Update="Pages\Categories\Create - Copy %282%29 - Copy %282%29.cshtml.cs">
+      <DependentUpon>Create - Copy (2).cshtml.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Pages\Categories\Create - Copy %282%29 - Copy - Copy.cshtml.cs">
+      <DependentUpon>Create - Copy (2) - Copy.cshtml.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Pages\Categories\Create - Copy %282%29 - Copy.cshtml.cs">
+      <DependentUpon>Create - Copy (2).cshtml.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Pages\Categories\Create - Copy %282%29.cshtml.cs">
+      <DependentUpon>Create.cshtml.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Pages\Categories\Create - Copy %283%29.cshtml.cs">
+      <DependentUpon>Create.cshtml.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Pages\Categories\Create - Copy - Copy %282%29 - Copy.cshtml.cs">
+      <DependentUpon>Create - Copy - Copy (2).cshtml.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Pages\Categories\Create - Copy - Copy %282%29.cshtml.cs">
+      <DependentUpon>Create - Copy.cshtml.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Pages\Categories\Create - Copy - Copy %283%29.cshtml.cs">
+      <DependentUpon>Create - Copy.cshtml.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Pages\Categories\Create - Copy - Copy - Copy %282%29.cshtml.cs">
+      <DependentUpon>Create - Copy - Copy.cshtml.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Pages\Categories\Create - Copy - Copy - Copy - Copy.cshtml.cs">
+      <DependentUpon>Create - Copy - Copy - Copy.cshtml.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Pages\Categories\Create - Copy - Copy - Copy.cshtml.cs">
+      <DependentUpon>Create - Copy - Copy.cshtml.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Pages\Categories\Create - Copy - Copy.cshtml.cs">
+      <DependentUpon>Create - Copy.cshtml.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Pages\Categories\Create - Copy.cshtml.cs">
+      <DependentUpon>Create.cshtml.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
 </Project>
